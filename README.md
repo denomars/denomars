@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denomars
-- 👀 I’m interested in Machine Learning / AI 
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on Any Machine Learning Projects
+- 💞️ I’m looking to collaborate on Any Data Science Projects
 - 📫 How to reach me: Through E-mail
 - ⚡ Stay Curious in this life 
 
