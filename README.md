@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="left">Welcome, tech enthusiast  🌐</h1>
 
-<!--
-**denomars/denomars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Denis Martinez and I'm a IT & Cybersecurity scripting specialist from Florida 🌴</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🛜Making sure your internet stays connect.<br>📚 I'm currently learning PowerShell, Python & Bash.<br>🎯 Goals: To work in IT & Cybersec to make infrastructure safe and secure.<br>🎲 Fun fact: Voracious reader, especially for tech blogs and keeping up with current trends in IT & Cybersecurity.</p>
+
+###
+
+<h2 align="left">Writing Scripts with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h2 align="left">Socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/denisomartinez/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
