@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/4/41/PowerShell_ISE_2015.png/revision/latest?cb=20221230183552" height="40" alt="windows8 logo"  />
 </div>
 
 ###
