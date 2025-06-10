@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Denis Martinez and I'm a IT & Cybersecurity scripting specialist from Florida 🌴</p>
+<p align="left">My name is Denis Martinez and I'm actively building a library of scripts to deepen my understanding of IT systems and cybersecurity environment.</p>
 
 ###
 
