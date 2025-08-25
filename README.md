@@ -1,8 +1,8 @@
-<h1 align="left">Welcome, tech enthusiast  🌐</h1>
+<h1 align="left">Network Engineer Hub 🌐</h1>
 
 ###
 
-<p align="left">My name is Denis Martinez and I'm actively building a library of scripts to deepen my understanding of IT systems and cybersecurity environment.</p>
+<p align="left">My name is Denis Martinez and I am an Aspiring Network Engineer dedicated to building, securing, and optimizing IT infrastructure.</p>
 
 ###
 
@@ -10,26 +10,11 @@
 
 ###
 
-<p align="left">🛜Making sure your internet stays connect.<br>📚 I'm currently learning PowerShell, Python & Bash.<br>🎯 Goals: To work in IT & Cybersec to make infrastructure safe and secure.<br>🎲 Fun fact: Voracious reader, especially for tech blogs and keeping up with current trends in IT & Cybersecurity.</p>
+<p align="left">🛠️ Ensuring reliable and secure internet connectivity.<br>🎓 Currently advancing my skills in PowerShell, Python, and Bash for network automation and troubleshooting.<br>🎯 Career goal: To design and maintain resilient networks and enhance cybersecurity against modern threats.<br>📖 Avid technology reader with an interest in network protocols, cybersecurity trends, and infrastructure innovations.</p>
 
 ###
 
-<h2 align="left">Writing Scripts with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://static.wikia.nocookie.net/logopedia/images/4/41/PowerShell_ISE_2015.png/revision/latest?cb=20221230183552" height="40" alt="windows8 logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
+<h2 align="left">Skills & Tools<br>Network Protocols: TCP/IP, BGP, VLAN, VPN, DHCP, DNS, UDP, HTTP, HTTPS<br>Network Equipment: Cisco IOS, Juniper Junos, Palo Alto, Fortinet Firewalls<br>Scripting & Automation: PowerShell, Python, Bash<br>Monitoring & Analysis: Wireshark, SolarWinds,</h2>
 
 ###
 
@@ -40,9 +25,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/denisomartinez/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
