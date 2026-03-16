@@ -1,8 +1,8 @@
-<h1 align="left">Network Engineer Hub 🌐</h1>
+<h1 align="left">Network Infrastructure Engineer Hub 🌐</h1>
 
 ###
 
-<p align="left">My name is Denis Martinez and I am an Aspiring Network Engineer dedicated to building, securing, and optimizing IT infrastructure.</p>
+<p align="left"> My name is Denis Martinez emerging network infrastructure engineer focused on building and troubleshooting reliable infrastructure from the ground up.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🛠️ Ensuring reliable and secure internet connectivity.<br>🎓 Currently advancing my skills in PowerShell, Python, and Bash for network automation and troubleshooting.<br>🎯 Career goal: To design and maintain resilient networks and enhance cybersecurity against modern threats.<br>📖 Avid technology reader with an interest in network protocols, cybersecurity trends, and infrastructure innovations.</p>
+<p align="left">What I am working on: building hands-on labs in VLANs, OSPF, redudancy and fallover simulations. <br> Studying for CCCNA while going deep on networking fundamentals. <br> Targeting roles in Data Center Operations and Network Engineer.</p>
 
 ###
 
-<h2 align="left">Skills & Tools<br>Network Protocols: TCP/IP, BGP, VLAN, VPN, DHCP, DNS, UDP, HTTP, HTTPS<br>Network Equipment: Cisco IOS, Juniper Junos, Palo Alto, Fortinet Firewalls<br>Scripting & Automation: PowerShell, Python, Bash<br>Monitoring & Analysis: Wireshark, SolarWinds,</h2>
+<h2 align="left">Skills & Tools<br>Network Protocols: TCP/IP, VLAN, OSPF, DHCP, DNS, NAT. <br> Cisco IOS Analysis, Wireshark, Linux, Windows, MacOS</h2>
 
 ###
 
