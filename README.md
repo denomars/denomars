@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">What I am working on: building hands-on labs in VLANs, OSPF, redudancy and fallover simulations. <br> Studying for CCCNA while going deep on networking fundamentals. <br> Targeting roles in Data Center Operations and Network Engineer.</p>
+<p align="left">What I am working on: building hands-on labs in VLANs, OSPF, redudancy and fallover simulations. <br> Studying for CCNA while going deep on networking fundamentals. <br> Targeting roles in Data Center Operations and Network Engineer.</p>
 
 ###
 
